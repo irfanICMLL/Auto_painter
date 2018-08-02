@@ -6,6 +6,7 @@ This project mean to make an end-to-end network for the sketch of cartoon to hav
 More results can be seen here: https://irfanicmll.github.io/work-page/
 
 Try our demo here: http://103.202.133.77:10086/
+Since the lab's server has temporarily expired, the demo is now unavailable. You can see the demo video and train your own model.
 
 New model has been updated!~ The performance is much better than in the orginal paper! See the demo video:https://youtu.be/g9rf-YFGgbg
 
