@@ -1,10 +1,12 @@
 # Auto_painter
 
-It is the original implementation of the article:Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks
+It is the original implementation of the journal article:
+Auto-painter: Cartoon image generation from sketch by using conditional Wasserstein generative adversarial networks
+https://www.sciencedirect.com/science/article/pii/S0925231218306209?via%3Dihub
+
 This project mean to make an end-to-end network for the sketch of cartoon to have color automatically.
 
 More results can be seen here: https://irfanicmll.github.io/work-page/
-
 Try our demo here: http://103.202.133.77:10086/
 Since the lab's server has temporarily expired, the demo is now unavailable. You can see the demo video and train your own model.
 
@@ -17,3 +19,5 @@ The pre-train model can be download here: http://dsd.future-lab.cn\members\2016\
 My homepage: http://dsd.future-lab.cn/members/2016/Yifan%20Liu.html
 
 Welcome to contact me~
+
+
