@@ -16,9 +16,9 @@ New model has been updated!~ The performance is much better than in the orginal 
 
 Have a try~
 
-The pre-train model can be download here: http://dsd.future-lab.cn\members\2016\Yifan\export_out3\model.rar
+The pre-train model can be download here: https://cloudstor.aarnet.edu.au/plus/s/LvyREKsiaH47Aa6
 
-My homepage: http://dsd.future-lab.cn/members/2016/Yifan%20Liu.html
+My homepage: https://irfanicmll.github.io/
 
 Welcome to contact me~
 
