@@ -1,5 +1,5 @@
 # Auto_painter
-News!!!!
+### News
 We have released our dataset for public using.
 The dataset can be downloaded through following links: 
 
