@@ -9,7 +9,7 @@ Sketch with control color blocks: https://cloudstor.aarnet.edu.au/plus/s/ixj8XS0
 
 
 
-##Orginal README
+Orginal README
 ---------------------------------------------------------------------------
 It is the original implementation of the journal article:
 Auto-painter: Cartoon image generation from sketch by using conditional Wasserstein generative adversarial networks
