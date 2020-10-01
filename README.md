@@ -27,7 +27,7 @@ New model has been updated!~ The performance is much better than in the orginal 
 
 Have a try~
 
-The pre-train model can be download here: https://cloudstor.aarnet.edu.au/plus/s/LvyREKsiaH47Aa6
+The pre-trained model can be downloaded from the following link: https://cloudstor.aarnet.edu.au/plus/s/LvyREKsiaH47Aa6
 
 My homepage: https://irfanicmll.github.io/
 
