@@ -1,6 +1,6 @@
 # Auto_painter
 ### News
-We have released our dataset for public using.
+We have released our dataset for public use.
 The dataset can be downloaded through following links: 
 
 Sketch-image pairs: https://cloudstor.aarnet.edu.au/plus/s/rMSBYCjEZJ70ab2
@@ -12,7 +12,7 @@ Sketch with control color blocks: https://cloudstor.aarnet.edu.au/plus/s/ixj8XS0
 Orginal README
 ---------------------------------------------------------------------------
 It is the original implementation of the journal article:
-Auto-painter: Cartoon image generation from sketch by using conditional Wasserstein generative adversarial networks
+Auto-painter: Cartoon image generation from sketch by using conditional Wasserstein generative adversarial networks 
 https://www.sciencedirect.com/science/article/pii/S0925231218306209?via%3Dihub
 
 This project mean to make an end-to-end network for the sketch of cartoon to have color automatically.
