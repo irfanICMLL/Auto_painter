@@ -17,11 +17,11 @@ https://www.sciencedirect.com/science/article/pii/S0925231218306209?via%3Dihub
 
 This project mean to make an end-to-end network for the sketch of cartoon to have color automatically.
 
-More results can be seen here: https://irfanicmll.github.io/work-page/
-
 Try our demo here: http://103.202.133.77:10086/
 
 Since the lab's server has temporarily expired, the demo is now unavailable. You can see the demo video and train your own model.
+Or you can build your demo page based on our provided models following this project:
+https://github.com/irfanICMLL/Auto_painter_demo
 
 New model has been updated!~ The performance is much better than in the orginal paper! See the demo video:https://youtu.be/g9rf-YFGgbg
 
